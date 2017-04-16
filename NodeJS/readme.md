@@ -1,4 +1,4 @@
-# `learnyounod` workshop cli from [NodeSchool](nodeschool.io)
+# `learnyounode` workshop cli from [NodeSchool](nodeschool.io)
 
 ## About
 
@@ -8,3 +8,7 @@ I found NodeSchool while I was looking for NodeJS simple and OpenSource class. T
 | __Dificulty (/5)__             | __Time__ | __Fun (/5)__                   |
 |--------------------------------|----------|--------------------------------|
 | :star::star::star:             | 3h       | :star::star::star::star:       |
+
+## Solutions
+
+I didn't copy entirely official solutions on each exercices, but you can find them [here](https://github.com/workshopper/learnyounode) on _exercises/NAME/solution_.
