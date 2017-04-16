@@ -1,4 +1,4 @@
-# `learnyounode` workshop cli from [NodeSchool](nodeschool.io)
+# `learnyounode` workshop cli from [NodeSchool](https://nodeschool.io/index.html)
 
 ## About
 
