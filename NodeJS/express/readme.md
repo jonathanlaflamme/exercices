@@ -11,4 +11,4 @@ I found this workshop interesting for leaning Express.js a popular NodeJS librar
 
 ## Solutions
 
-I didn't copy entirely official solutions on each exercices, but you can find them [here](https://github.com/azat-co/expressworks/tree/master/) on _exercises/NAME/solution_.
+I didn't copy entirely official solutions on each exercises, but you can find them [here](https://github.com/azat-co/expressworks/tree/master/) on _exercises/NAME/solution_.
